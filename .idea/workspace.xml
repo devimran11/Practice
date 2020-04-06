@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1ac566a-cca7-439e-8822-f41a3fc48956" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/admin/brand/add-brand.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/admin/brand/manage-brand.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/admin/category/add-category.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/admin/category/edit-category.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/admin/category/manage-category.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/admin/home/home-content.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/admin/includes/header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/admin/includes/table.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/admin/login/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/admin/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/admin/product/add-product.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/admin/product/edit-product.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/admin/product/manage-product.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/admin/product/view-product.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/admin/sidebar/sidebar-content.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/front/category/category-content.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/front/category/men.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/front/includes/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-commerce/resources/views/front/product/product-details.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/admin/dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/app/classes/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/app/classes/Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/css/clean-blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/css/clean-blog.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/img/about-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/img/contact-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/img/home-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/img/post-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/img/post-sample-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/js/clean-blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/js/clean-blog.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/js/contact_me.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/js/jqBootstrapValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/assets/front/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-2/blog/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin/admission_students.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin/class_eight.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin/class_eleven.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin/class_nine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin/class_ten.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin/class_twelve.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin/dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin/edit_students.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin/manage_students.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin/payment_profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin/payment_status.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/app/classes/Admission.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/app/classes/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/app/classes/Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/app/classes/Payment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/composer.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/blog/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/blog/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1a2VzrfdPWcelQ4CinGSSjDRXxq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Practice\blog\assets\admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Practice\blog\assets\front" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1ac566a-cca7-439e-8822-f41a3fc48956" name="Default Changelist" comment="" />
+      <created>1585140315090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585140315090</updated>
+      <workItem from="1585140316499" duration="6805000" />
+      <workItem from="1585193398612" duration="24373000" />
+      <workItem from="1585303775022" duration="18631000" />
+      <workItem from="1585369302205" duration="15178000" />
+      <workItem from="1585477145704" duration="15519000" />
+      <workItem from="1585539351542" duration="1791000" />
+      <workItem from="1585544872938" duration="848000" />
+      <workItem from="1585560656770" duration="8847000" />
+      <workItem from="1585620551107" duration="596000" />
+      <workItem from="1585655975993" duration="1810000" />
+      <workItem from="1585710529466" duration="5456000" />
+      <workItem from="1585933942634" duration="2440000" />
+      <workItem from="1585972798999" duration="1817000" />
+      <workItem from="1585979969217" duration="6493000" />
+      <workItem from="1586056713778" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="387" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1586056716055">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="387" y="196" key="com.intellij.ide.util.TipDialog/0.0.1360.738@0.0.1360.738" timestamp="1586056716055" />
+  </component>
+</project>
